@@ -1,0 +1,6 @@
+Welcome to the DungeonMore.
+
+This goal of this project is to create a collection of resources to use in dungeon-related games.
+Ideally this will be a library of 3D models, textures, sounds and music for dungeon-crawlers and rouge-likes
+games.
+
