@@ -4,7 +4,7 @@
   <property name="name" value="testLevel10"/>
  </properties>
  <tileset firstgid="1" name="floorTiles" tilewidth="32" tileheight="32">
-  <image source="../../../../../My Games/Design/GOLD/BGETest/tmx/floorTiles.png" width="320" height="320"/>
+  <image source="tilesets/floorTiles.png" width="320" height="320"/>
   <tile id="0">
    <properties>
     <property name="prefabName" value="floorTile01"/>
@@ -12,7 +12,7 @@
   </tile>
  </tileset>
  <tileset firstgid="101" name="wallTiles" tilewidth="32" tileheight="32">
-  <image source="../../../../../My Games/Design/GOLD/BGETest/tmx/wallTiles.png" width="320" height="320"/>
+  <image source="tilesets/wallTiles.png" width="320" height="320"/>
   <tile id="0">
    <properties>
     <property name="prefabName" value="wallTile01"/>
@@ -35,7 +35,7 @@
   </tile>
  </tileset>
  <tileset firstgid="201" name="ceilingTiles" tilewidth="32" tileheight="32">
-  <image source="../../../../../My Games/Design/GOLD/BGETest/tmx/ceilingTiles.png" width="320" height="320"/>
+  <image source="tilesets/ceilingTiles.png" width="320" height="320"/>
   <tile id="0">
    <properties>
     <property name="prefabName" value="ceilingTile01"/>
@@ -43,7 +43,7 @@
   </tile>
  </tileset>
  <tileset firstgid="301" name="columnTiles" tilewidth="32" tileheight="32">
-  <image source="../../../../../My Games/Design/GOLD/BGETest/tmx/columnTiles.png" width="320" height="320"/>
+  <image source="tilesets/columnTiles.png" width="320" height="320"/>
   <tile id="0">
    <properties>
     <property name="prefabName" value="column01"/>
